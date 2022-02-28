@@ -1,0 +1,12 @@
+.react-modal{
+    width:300px;
+    height: 180px;
+}
+
+.modal-backdrop.show{
+    opacity: .1!important;
+}
+
+.modal-header{
+    border-bottom: none;
+}

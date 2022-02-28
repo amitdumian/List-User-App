@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Users should match snapshot on load 1`] = `
+<div
+  className="flex-row-container"
+>
+  <p>
+    Please Wait for Users to Load
+  </p>
+</div>
+`;
+
+exports[`Users should render user list on load 1`] = `
+<div
+  className="flex-row-container"
+>
+  <p>
+    Please Wait for Users to Load
+  </p>
+</div>
+`;

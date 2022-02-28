@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Parent Component should render userlist on load 1`] = `
+<div>
+  <div
+    className="flex-row-container"
+  >
+    <p>
+      Please Wait for Users to Load
+    </p>
+  </div>
+</div>
+`;

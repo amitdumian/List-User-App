@@ -1,0 +1,49 @@
+.container{
+   padding-left:23%!important;
+}
+
+.modal-user-name{
+    font-weight: bold;
+    font-size: medium;
+    color: deepskyblue;
+    padding-left:10%;
+}
+
+.modal-user-age{
+    padding-left: 22%;
+    margin-top: 10px;
+    font-size: 12px;
+}
+
+.modal-user-location{
+    padding-top: 15px;
+    font-size: 12px;
+}
+
+.modal-user-email{
+    padding-top: 12px;
+    padding-bottom: 10px;
+    font-size: 12px;
+}
+
+.modal-user-phone{
+    padding-left: 12%;
+}
+
+.modal-user-street{
+    padding-left: 12%;
+    white-space: nowrap;
+}
+
+.modal-user-state{
+    white-space: nowrap;
+}
+
+
+.modal-user-image{
+    border-radius:50%;
+    position: absolute;
+    left:35%;
+    top: -40%;
+    
+}
